@@ -1,9 +1,9 @@
-import * as Styled from "./styles";
+import * as Styled from './styles';
 
 function Home() {
   return (
-    <div className="App">
-      <Styled.Wrapper background="purple">
+    <div className="Home">
+      <Styled.Wrapper>
         <h1>Hello!</h1>
       </Styled.Wrapper>
     </div>
