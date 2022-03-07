@@ -4,7 +4,8 @@ import Home from "./templates/App/index";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Home />
+    <Home/>
   </React.StrictMode>,
   document.getElementById("root")
 );
+
